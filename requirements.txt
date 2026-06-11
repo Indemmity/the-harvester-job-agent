@@ -1,0 +1,15 @@
+# Job Agent Dependencies
+# Generated from codebase import analysis
+
+# Web scraping and HTTP requests
+beautifulsoup4>=4.12
+requests>=2.31
+
+# Browser automation for JavaScript-rendered pages
+selenium>=4.44
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Firecrawl for Wellfound integration
+firecrawl>=1.0.0
