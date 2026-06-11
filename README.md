@@ -182,3 +182,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with reference to modern Python packaging best practices
 - Uses established libraries for web scraping and data processing
+
+
+## Results
+
+- Total jobs collected: 332
+- After deduplication: 286 unique jobs
+
+### Sources
+- Naukri
+- RemoteOK
+- Wellfound
+
+### Roles Collected
+- Software Engineer
+- Data Scientist
+- Product Manager
+
+### Output Files
+- combined_jobs.csv
+- combined_jobs_deduped.csv
